@@ -91,7 +91,7 @@
           <div class="-mx-1.5 mt-4 flex">
             <a
               class="btn mx-1.5 rounded-full bg-base-100"
-              href="https://www.facebook.com"
+              href="https://www.facebook.com/profile.php?id=100076294563997"
               aria-label="facebook"
             >
               <svg
