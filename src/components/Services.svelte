@@ -45,11 +45,11 @@
 >
   <div class="flex flex-col items-center justify-center">
     <h1 class="text-center font-urbanist text-2xl font-semibold md:text-5xl">
-      Our Services
+      Nos Services
     </h1>
     <span
       class="text-md font-urbanist mt-2 px-2 text-center md:mt-4 md:px-5 md:text-xl"
-      >Uncover new paths, explore opportunities and chart your success with us.</span
+      >Réalisez vos projets sur mesure sans contraintes.</span
     >
   </div>
   <div class="container mt-10 grid gap-10 p-4 md:grid-cols-2 xl:grid-cols-3">

@@ -1,5 +1,5 @@
 <script>
-  const testimonials = [
+  const Avis = [
     {
       name: "Peter",
       id: "1",
@@ -39,12 +39,12 @@
 </script>
 
 <div
-  id="testimonial"
+  id="Avis"
   class="my-20 flex flex-col items-center justify-center md:my-32"
 >
   <div class="flex flex-col items-center justify-center">
     <h1 class="text-center font-urbanist text-2xl font-semibold md:text-5xl">
-      Testimonials
+      Avis
     </h1>
     <span class="text-md mt-2 px-2 font-urbanist md:mt-4 md:px-5 md:text-xl">
       What Our Clients Says About Us
@@ -55,7 +55,7 @@
     <div
       class="carousel mx-2 lg:mx-4 max-w-full h-96 rounded-xl border border-base-content/10"
     >
-      {#each testimonials as item, index}
+      {#each Avis as item, index}
         <div
           id={item.id}
           class="carousel-item w-full flex items-center justify-center"

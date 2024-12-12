@@ -2,14 +2,14 @@
     import ThemeToggle from "./ThemeToggle.svelte";
 
     const navigation = [
-        { name: "Home", href: "#home" },
+        { name: "Accueil", href: "#Accueil" },
         { name: "Services", href: "#services" },
-        { name: "Testimonial", href: "#testimonial" },
-        { name: "Team", href: "#team" },
+        { name: "Réalisations", href: "#Realisations" },
+        { name: "Avis", href: "#Avis" },
         { name: "Contact Us", href: "#contactus" },
     ];
 
-    let active = "Home";
+    let active = "Accueil";
 
     /**
      * @param {string} itemName
@@ -46,7 +46,7 @@
                     {/each}
                 </ul>
             </div>
-            <a href="/" class="btn btn-ghost rounded-full font-urbanist text-lg font-semibold">Digital Agency</a>
+            <a href="/" class="btn btn-ghost rounded-full font-urbanist text-lg font-semibold">AL Menuiserie</a>
         </div>
         <div class="navbar-center ml-10 hidden lg:flex">
             {#each navigation as item}
