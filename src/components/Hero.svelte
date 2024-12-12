@@ -11,28 +11,21 @@
     />
     <div class="text-center lg:text-start">
       <span class="badge badge-outline badge-lg"
-        >Award winning digital agency</span
+        >Menuiserie générale</span
       >
       <h1 class="font-urbanist text-3xl font-black uppercase md:text-7xl">
-        Digital marketing solutions
-        <span class="text-base-content/30"> for ambitious brands</span>
+        Menuiserie générale
+        <span class="text-base-content/30"> pour votre confort</span>
       </h1>
       <p class="py-6 font-urbanist lg:max-w-lg">
-        SuperCharge Your Brand Performance With Performance Based and
-        Specialized Digital Marketing & Development Solutions.
+        AL Menuiserie vous accompagne dans la réalisation de vos travaux de menuiserie. Chassîs, toitures, escaliers, terrasse, vous pouvez compter sur nôtre équipe pour mener à bien vos projets !
       </p>
       <div class="flex gap-2 max-lg:justify-center">
         <a
           href="#contactus"
           class="btn btn-neutral md:btn-lg rounded-full font-urbanist shadow-md"
         >
-          Get Started
-        </a>
-        <a
-          href="/"
-          class="btn btn-ghost md:btn-lg rounded-full font-urbanist font-light"
-        >
-          Read success stories
+          Contacter
         </a>
       </div>
     </div>
