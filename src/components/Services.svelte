@@ -4,25 +4,25 @@
       name: "Chassis",
       icon: "/images/icons/windows.svg",
       description:
-        "Unlock the full potential of your online presence with our comprehensive digital marketing solutions. In today's hyper-connected world, standing out in the digital landscape is essential for success.",
+        "Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.",
     },
     {
       name: "Toitures",
       icon: "/images/icons/toitures.svg",
       description:
-        "Embark on a digital journey with a captivating online presence crafted by our expert website development team. In today's digital era, your website serves as the cornerstone of your brand.",
+        "Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.",
     },
     {
       name: "Escaliers",
       icon: "/images/icons/escaliers.svg",
       description:
-        "Elevate your brand's online presence and engage with your audience like never before with our expert social media management services. In today's fast-paced digital landscape.",
+        "Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.",
     },
     {
       name: "Menuiserie générale",
       icon: "/images/icons/menuisiers.svg",
       description:
-        "Empower your business and connect with your audience on-the-go with our custom app development services. In today's mobile-centric world, having a tailored mobile application is essential.",
+        "Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.",
     },
   ];
 </script>
