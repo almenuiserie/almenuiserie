@@ -6,7 +6,7 @@
         { name: "Services", href: "#services" },
         { name: "Réalisations", href: "#Realisations" },
         { name: "Avis", href: "#Avis" },
-        { name: "Contact Us", href: "#contactus" },
+        { name: "Contact", href: "#Contact" },
     ];
 
     let active = "Accueil";

@@ -6,7 +6,7 @@
     <h2
       class="text-base-400 mb-12 text-center font-urbanist text-lg font-semibold leading-8"
     >
-      Trusted by the world’s most Popular Brands
+      Ils nous ont fait confiance
     </h2>
     <div class="wrap flex flex-wrap justify-center gap-10 xl:gap-32">
       <img class="w-32 grayscale" src="/images/logo/google.svg" alt="google" />

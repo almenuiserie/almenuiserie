@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<section id="contactus" class="mt-20">
+<section id="Contact" class="mt-20">
   <div class="flex w-full flex-col justify-center">
     <h1 class="text-center font-urbanist text-2xl font-semibold md:text-5xl">
       Nous contacter
@@ -123,7 +123,7 @@
                 id="name"
                 autoComplete="name"
                 type="text"
-                placeholder="Your Name"
+                placeholder="Votre nom complet"
                 class="input input-bordered w-full"
               />
             </div>

@@ -1,39 +1,30 @@
 <script>
   const Avis = [
     {
-      name: "Peter",
+      name: "Noa Stepien",
       id: "1",
-      position: "Lead Developer",
+      position: "Particuliers",
       quote:
-        "I really like this marketing agency. They are very professional and know how to get the job done. I would recommend them to anyone.",
+        "Très sympathique et très compétent je recommande.",
       image:
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
     {
-      name: "David",
+      name: "Sabine Rome",
       id: "2",
-      position: "Marketing Manager",
+      position: "Particuliers",
       quote:
-        "Wonderful team, great service and always available to answer any queries. I always recommend them to my friends.",
+        "Patron hyper disponible et professionnel. Réponds aux urgences même s'il est tard, le top !",
       image:
         "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
     {
-      name: "Marc",
+      name: "Zakaria Baaza",
       id: "3",
-      position: "Human Resources",
-      quote: "The best way to market your business. Impressive results.",
+      position: "Particuliers",
+      quote: "Ma porte de garage a été installée dans les 15 jours ! Le rapport qualité-prix est excellent, encore merci.",
       image:
         "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
-    },
-    {
-      name: "Lisa",
-      id: "4",
-      position: "Accounting Manager",
-      quote:
-        "First I was not sure about them but now I am a fan. My website is ranking on top of google.",
-      image:
-        "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
   ];
 </script>
@@ -47,7 +38,7 @@
       Avis
     </h1>
     <span class="text-md mt-2 px-2 font-urbanist md:mt-4 md:px-5 md:text-xl">
-      What Our Clients Says About Us
+      Ce qu'en pensent nos clients ?
     </span>
   </div>
 
@@ -87,7 +78,6 @@
       <a href="#1" class="btn btn-xs">1</a>
       <a href="#2" class="btn btn-xs">2</a>
       <a href="#3" class="btn btn-xs">3</a>
-      <a href="#4" class="btn btn-xs">4</a>
     </div>
   </div>
 </div>

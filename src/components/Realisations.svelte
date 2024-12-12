@@ -2,39 +2,39 @@
   const services = [
     {
       alt: "Photo représentant un service informatique",
-      profile: "/images/realisation/sample.jpg",
+      profile: "/images/realisations/chassis.svg",
     },
     {
       alt: "Photo représentant un service de développement web",
-      profile: "/images/realisation/sample.jpg",
+      profile: "/images/realisations/meubles.svg",
     },
     {
       alt: "Photo représentant un service de marketing digital",
-      profile: "/images/realisation/sample.jpg",
+      profile: "/images/realisations/toitures.svg",
     },
     {
       alt: "Photo représentant un service de développement mobile",
-      profile: "/images/realisation/sample.jpg",
+      profile: "/images/realisations/dressings.svg",
     },
     {
       alt: "Photo représentant un service de conception de sites",
-      profile: "/images/realisation/sample.jpg",
+      profile: "/images/realisations/garages.svg",
     },
     {
       alt: "Photo représentant un service de montage vidéo",
-      profile: "/images/realisation/sample.jpg",
+      profile: "/images/realisations/parquets.svg",
     },
     {
       alt: "Photo représentant un service de maintenance informatique",
-      profile: "/images/realisation/sample.jpg",
+      profile: "/images/realisations/terrasses.svg",
     },
     {
       alt: "Photo représentant un service d'audit informatique",
-      profile: "/images/realisation/sample.jpg",
+      profile: "/images/realisations/carports.svg",
     },
     {
       alt: "Photo représentant un service de création de contenu",
-      profile: "/images/realisation/sample.jpg",
+      profile: "/images/realisations/escaliers.svg",
     },
   ];
 </script>
