@@ -4,25 +4,25 @@
       name: "Chassis",
       icon: "/images/icons/windows.svg",
       description:
-        "Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.",
+        "Installation et remplacement de châssis en bois, PVC ou aluminium, alliant esthétisme et performance énergétique pour vos fenêtres et portes-fenêtres.",
     },
     {
       name: "Toitures",
       icon: "/images/icons/toitures.svg",
       description:
-        "Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.",
+        "Construction, rénovation et isolation de toitures, assurant une protection durable et une efficacité énergétique optimale pour votre habitation.",
     },
     {
       name: "Escaliers",
       icon: "/images/icons/escaliers.svg",
       description:
-        "Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.",
+        "Conception et fabrication sur mesure d'escaliers en bois ou métal, adaptés à votre intérieur et à vos préférences esthétiques.",
     },
     {
       name: "Menuiserie générale",
       icon: "/images/icons/menuisiers.svg",
       description:
-        "Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.Je s'apelle Zak.",
+        "Réalisation de divers travaux de menuiserie, incluant la fabrication de meubles sur mesure, l'aménagement intérieur et extérieur, avec une attention particulière aux détails et à la qualité des matériaux.",
     },
   ];
 </script>
