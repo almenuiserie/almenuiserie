@@ -1,40 +1,28 @@
 <script>
   const services = [
     {
-      name: "Digital Marketing",
-      icon: "/images/icons/digitalmarketing.png",
+      name: "Chassis",
+      icon: "/images/icons/windows.svg",
       description:
         "Unlock the full potential of your online presence with our comprehensive digital marketing solutions. In today's hyper-connected world, standing out in the digital landscape is essential for success.",
     },
     {
-      name: "Website Development",
-      icon: "/images/icons/webdevelopment.png",
+      name: "Toitures",
+      icon: "/images/icons/toitures.svg",
       description:
         "Embark on a digital journey with a captivating online presence crafted by our expert website development team. In today's digital era, your website serves as the cornerstone of your brand.",
     },
     {
-      name: "Social Media Management",
-      icon: "/images/icons/socialmedia.png",
+      name: "Escaliers",
+      icon: "/images/icons/escaliers.svg",
       description:
         "Elevate your brand's online presence and engage with your audience like never before with our expert social media management services. In today's fast-paced digital landscape.",
     },
     {
-      name: "App Development",
-      icon: "/images/icons/appdevelopment.png",
+      name: "Menuiserie générale",
+      icon: "/images/icons/menuisiers.svg",
       description:
         "Empower your business and connect with your audience on-the-go with our custom app development services. In today's mobile-centric world, having a tailored mobile application is essential.",
-    },
-    {
-      name: "Video Editing",
-      icon: "/images/icons/videoediting.png",
-      description:
-        "Transform your raw footage into captivating visual stories with our professional video editing services. In today's digital landscape, video content reigns supreme, captivating audiences.",
-    },
-    {
-      name: "Consulting",
-      icon: "/images/icons/consulting.png",
-      description:
-        "Empower your business with expert guidance and strategic insights from our seasoned consulting team. In today's fast-paced and ever-changing business landscape, navigating challenges and seizing opportunities. ",
     },
   ];
 </script>

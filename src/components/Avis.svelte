@@ -6,8 +6,7 @@
       position: "Particuliers",
       quote:
         "Très sympathique et très compétent je recommande.",
-      image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      image: "images/icons/noastepien.png",
     },
     {
       name: "Sabine Rome",
@@ -15,16 +14,14 @@
       position: "Particuliers",
       quote:
         "Patron hyper disponible et professionnel. Réponds aux urgences même s'il est tard, le top !",
-      image:
-        "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      image:"images/icons/sabinerome.png",
     },
     {
       name: "Zakaria Baaza",
       id: "3",
       position: "Particuliers",
       quote: "Ma porte de garage a été installée dans les 15 jours ! Le rapport qualité-prix est excellent, encore merci.",
-      image:
-        "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      image:"images/icons/zakariabaaza.png",
     },
   ];
 </script>
