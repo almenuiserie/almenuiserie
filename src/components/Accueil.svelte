@@ -22,7 +22,7 @@
       </p>
       <div class="flex gap-2 max-lg:justify-center">
         <a
-          href="#contactus"
+          href="#Contact"
           class="btn btn-neutral md:btn-lg rounded-full font-urbanist shadow-md"
         >
           Contacter
