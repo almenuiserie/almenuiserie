@@ -7,7 +7,7 @@
         "Installation et remplacement de châssis en bois, PVC ou aluminium, alliant esthétisme et performance énergétique pour vos fenêtres et portes-fenêtres.",
     },
     {
-      name: "Toitures",
+      name: "Charpentes",
       icon: "/images/icons/toitures.svg",
       description:
         "Construction, rénovation et isolation de toitures, assurant une protection durable et une efficacité énergétique optimale pour votre habitation.",
