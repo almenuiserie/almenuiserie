@@ -37,7 +37,7 @@
     </h1>
     <span
       class="text-md font-urbanist mt-2 px-2 text-center md:mt-4 md:px-5 md:text-xl"
-      >Réalisez vos projets sur mesure sans contraintes.</span
+      >Réalisez vos projets sur mesure et sans contraintes.</span
     >
   </div>
   <div class="container mt-10 grid gap-10 p-4 md:grid-cols-2 xl:grid-cols-3">

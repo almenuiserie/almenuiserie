@@ -9,7 +9,7 @@
     <span
       class="text-md mt-2 px-2 text-center font-urbanist md:mt-4 md:px-5 md:text-xl"
     >
-    Complétez notre formulaire et nous vous recontacterons avec des réponses
+      Complétez notre formulaire et nous vous recontacterons avec des réponses
     </span>
   </div>
   <div class="container mx-auto px-6 py-10">
@@ -38,7 +38,7 @@
             </svg>
 
             <span class="mx-2 w-72 truncate font-urbanist text-base-content">
-              Rue de la gare 3 7, 6250 Aiseau
+              Rue de la gare 37, 6250 Aiseau
             </span>
           </p>
 
@@ -118,7 +118,9 @@
 
           <form class="mt-6">
             <div class="flex-1">
-              <label for="full-name" class="mb-2 block text-sm"> Nom complet </label>
+              <label for="full-name" class="mb-2 block text-sm">
+                Nom complet
+              </label>
               <input
                 id="name"
                 autoComplete="name"
@@ -129,7 +131,9 @@
             </div>
 
             <div class="mt-6 flex-1">
-              <label for="email" class="mb-2 block text-sm"> Adresse email </label>
+              <label for="email" class="mb-2 block text-sm">
+                Adresse email
+              </label>
               <input
                 id="email"
                 autoComplete="email"
@@ -140,7 +144,9 @@
             </div>
 
             <div class="mt-6 w-full">
-              <label for="message" class="mb-2 block text-sm"> Votre message </label>
+              <label for="message" class="mb-2 block text-sm">
+                Votre message
+              </label>
               <textarea
                 id="message"
                 autoComplete="message"
@@ -162,6 +168,6 @@
   <div
     class="flex items-center justify-center py-10 font-urbanist text-sm lg:text-lg"
   >
-    <h1>© 2024 NSMobile. Tous droits réservés.</h1>
+    <h1>© 2025 NSMobile. Tous droits réservés.</h1>
   </div>
 </section>
